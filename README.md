@@ -39,5 +39,5 @@ Java, Python, JavaScript (JS), TypeScript, HTML, CSS, React, Pandas, scikit-lear
 
 ## 📬 Contact
 
-- 📧 Email: richinm@gmail.com  
+- 📧 Email: richinm@gmail.com | rmrudul@purdue.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/richin-mrudul-227b67261/)
