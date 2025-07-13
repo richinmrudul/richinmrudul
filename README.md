@@ -8,9 +8,9 @@
 
 ## 💻 Projects 
 
-- 🔮 [NBA MVP Predictor](https://github.com/richinmrudul/nba-mvp-predictor) – ML model predicting MVPs from historical data
-- ♟ [JavaFX Chess Game](https://github.com/richinmrudul/Chess-Game-Java) – A chess game with AI support
-- 💸 [Expense Splitter](https://github.com/richinmrudul/ExpenseSplitter) – Group expense tracker in Java
+-  [NBA MVP Predictor](https://github.com/richinmrudul/nba-mvp-predictor) – ML model predicting MVPs from historical data
+-  [FitTrack](https://github.com/richinmrudul/FitTrack) – Smart Workout Tracker
+-  [Expense Splitter](https://github.com/richinmrudul/ExpenseSplitter) – Group expense tracker in Java
 
 ---
 
