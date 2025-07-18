@@ -10,7 +10,7 @@
 
 -  [NBA MVP Predictor](https://github.com/richinmrudul/nba-mvp-predictor) – ML model predicting MVPs from historical data
 -  [FitTrack](https://github.com/richinmrudul/FitTrack) – Smart Workout Tracker
--  [Expense Splitter](https://github.com/richinmrudul/ExpenseSplitter) – Group expense tracker in Java
+-  [Cooked](https://github.com/richinmrudul/Cooked) – Personalized Meal Tracker & Ranking App
 
 ---
 
