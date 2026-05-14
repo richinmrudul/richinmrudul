@@ -1,43 +1,25 @@
-# Richin Mrudul
+<h1 align="center">
+  Hi, I'm Mrudul
+</h1>
 
-🎓 CS @ Purdue University ‘28  
-💡 Passionate about AI, Software Dev, CS & DS  
-📍 Based in CA & Indiana | Open to SWE Opportunities
-
----
-
-## 💻 Projects 
-
--  [NBA MVP Predictor](https://github.com/richinmrudul/nba-mvp-predictor) – ML model predicting MVPs from historical data
--  [FitTrack](https://github.com/richinmrudul/FitTrack) – Smart Workout Tracker
--  [Cooked](https://github.com/richinmrudul/Cooked) – Personalized Meal Tracker & Ranking App
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&pause=1000&color=6AD46A&center=true&vCenter=true&width=600&lines=Building+things+for+the+web;CS+@+Purdue;Software+Engineer+Intern+@+Pendo;California+↔+Indiana" />
+</p>
 
 ---
 
-## 🛠️ Programming Languages & Libraries
+<p align="center">
+  I enjoy building clean interfaces, solving real problems, and making ideas feel alive.
+</p>
 
-**Languages & Tools:**  
-Java, Python, JavaScript (JS), TypeScript, HTML, CSS, React, Pandas, scikit-learn, Flask, JavaFX, Swing, JSON, Agile, PostgreSQL, Node.js, OpenAI API
+<p align="center">
+  currently exploring full-stack development, design systems, and interactive web experiences
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<br/>
 
----
-
-## 📊 GitHub Stats
-
-![Richin's GitHub stats](https://github-readme-stats.vercel.app/api?username=richinmrudul&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richinmrudul&layout=compact&theme=dark)
-
----
-
-## 📬 Contact
-
-- 📧 Email: richinm@gmail.com | rmrudul@purdue.edu
-- 💼 [LinkedIn](https://www.linkedin.com/in/richin-mrudul-227b67261/)
+<p align="center">
+  <a href="https://richinmrudul.com">
+    portfolio
+  </a>
+</p>
