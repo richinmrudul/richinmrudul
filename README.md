@@ -1,7 +1,7 @@
 richin
 
 cs @ purdue  
-software engineer intern @ pendo
+swe @ pendo | pendo integrations
 
 building across full-stack, infra, and design systems
 
