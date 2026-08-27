@@ -1,7 +1,7 @@
 richin
 
 cs @ purdue  
-swe @ pendo | pendo integrations
+open to collaborating on projects
 
 building across full-stack, infra, and design systems
 
